@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'attributes'   => 'Attributes',
+    'show_attributes' => 'Show Attributes',
+    'trashed_attributes' => 'Trashed Attributes',
+    'add_new_attribute' => 'Add New Attribute',
+    'update_attribute' => 'Update Attribute',
+    'errors' => 'Check Errors In Add Attribute Form',
+    'add_success' => 'Attribute Added Successfully',
+    'updated_success' => 'Attribute Updated Successfully',
+    'deleted_success' => 'Attribute Deleted Successfully',
+    'restored_success' => 'Attribute Restored Successfully',
+    'active_success' => 'Attribute Activated Successfully',
+    'deactive_success' => 'Attribute Deactivated Successfully',
+    'deleted_error' => 'Unable To Delete This Attribute',
+    'deactive_error' => 'Unable To Deactivate This Attribute',
+    'ar.name' => 'Arabic Name',
+    'en.name' => 'English Name',
+    'active' => 'Active',
+    'subattributes' => 'Subattributes',
+    'add_new_subattribute' => 'Add New Subattribute',
+    'trashed_subattributes' => 'Trashed Subattributes',
+    'show_subattributes' => 'Show Subattributes',
+    'of' => 'Of',
+    'add_new_subattribute_to' => 'Add New Subattribute To',
+    'update_subattribute' => 'Update Subattribute',
+];

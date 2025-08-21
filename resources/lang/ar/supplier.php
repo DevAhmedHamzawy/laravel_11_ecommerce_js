@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'suppliers'   => 'الموردين',
+    'show_suppliers' => 'عرض الموردين',
+    'trashed_suppliers' => 'الموردين المحذفين',
+    'add_new_supplier' => 'اضافة مورد جديد',
+    'update_supplier' => 'تعديل المورد',
+    'errors' => 'تحقق من الاخطاء في نموذج الاضافة',
+    'add_success' => 'تم اضافة المورد بنجاح',
+    'updated_success' => 'تم تعديل المورد بنجاح',
+    'deleted_success' => 'تم حذف المورد بنجاح',
+    'restored_success' => 'تم استعادة المورد بنجاح',
+    'active_success' => 'تم تفعيل المورد بنجاح',
+    'deactive_success' => 'تم تعطيل المورد بنجاح',
+    'name' => 'الاسم',
+    'email' => 'البريد الالكترونى',
+    'phone' => 'الهاتف',
+    'address' => 'العنوان',
+    'password' => 'كلمة المرور',
+    'active' => 'مفعل',
+    'country' => 'الدولة',
+    'governorate' => 'المحافظة / الولاية',
+    'city' => 'المدينة',
+];

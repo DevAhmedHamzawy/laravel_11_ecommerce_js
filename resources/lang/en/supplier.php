@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'suppliers'   => 'Suppliers',
+    'show_suppliers' => 'Show Suppliers',
+    'trashed_suppliers' => 'Trashed Suppliers',
+    'add_new_supplier' => 'Add New Supplier',
+    'update_supplier' => 'Update Supplier',
+    'errors' => 'Check Errors In Add Supplier Form',
+    'add_success' => 'Supplier Added Successfully',
+    'updated_success' => 'Supplier Updated Successfully',
+    'deleted_success' => 'Supplier Deleted Successfully',
+    'restored_success' => 'Supplier Restored Successfully',
+    'active_success' => 'Supplier Activated Successfully',
+    'deactive_success' => 'Supplier Deactivated Successfully',
+    'name' => 'Name',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'address' => 'Address',
+    'password' => 'Password',
+    'active' => 'Active',
+    'country' => 'Country',
+    'governorate' => 'Governorate / State',
+    'city' => 'City',
+];
